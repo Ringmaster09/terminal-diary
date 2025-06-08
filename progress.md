@@ -9,3 +9,5 @@ Day 4
 learning about copying deleting and moving and practicing excercises
 Day 5
 learning new commands
+day 6
+learning standard input output and error
