@@ -12,4 +12,4 @@ learning new commands
 day 6
 learning standard input output and error
 step 2
-piping learning
+piping learning and practicing
