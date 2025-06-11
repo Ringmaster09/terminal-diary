@@ -15,3 +15,4 @@ step 2
 piping learning and practicing
 day 7
 learning finding things and grep
+step 2 learning permissions basics and the environment
