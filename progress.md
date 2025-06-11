@@ -13,3 +13,5 @@ day 6
 learning standard input output and error
 step 2
 piping learning and practicing
+day 7
+learning finding things and grep
