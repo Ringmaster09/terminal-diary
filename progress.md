@@ -19,3 +19,5 @@ step 2 learning permissions basics and the environment
 
 day 8
 learning the environment and writing own commands
+
+learning cron
