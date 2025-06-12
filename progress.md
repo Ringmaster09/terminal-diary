@@ -16,3 +16,6 @@ piping learning and practicing
 day 7
 learning finding things and grep
 step 2 learning permissions basics and the environment
+
+day 8
+learning the environment and writing own commands
